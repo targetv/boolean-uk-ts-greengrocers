@@ -1,0 +1,34 @@
+{
+  "store": [
+    {
+      "img": "assets/icons/001-beetroot.svg",
+      "name": "beetroot",
+      "quantity": 1
+    },
+    {
+      "img": "assets/icons/002-carrot.svg",
+      "name": "carrot",
+      "quantity": 1
+    },
+    {
+      "img": "assets/icons/003-apple.svg",
+      "name": "apple",
+      "quantity": 1
+    },
+    {
+      "img": "assets/icons/004-apricot.svg",
+      "name": "apricot",
+      "quantity": 1
+    },
+    {
+      "img": "assets/icons/005-avocado.svg",
+      "name": "avocado",
+      "quantity": 1
+    },
+    {
+      "img": "assets/icons/006-bananas.svg",
+      "name": "bananas",
+      "quantity": 1
+    }
+  ]
+}
